@@ -1,5 +1,5 @@
 
-<h1 align = "center"> Olá 👋, sou Jairo Lopes </h1>
+<h1 align = "center">Jairo Lopes</h1>
 <h3 align = "center"> Entusiasta / estudante de tecnologia, mais especificamente data science (Pós-graduando), abrangendo tecnologias como: Python, Data Mining, Pandas, Seaborn, Matplotlib, Plotly, Machine Learning com scikit-learn entre outros. </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username= jairolopes & label = Perfil% 20views & color = 0e75b6 & style = flat "alt =" jairolopes "/> </p>
