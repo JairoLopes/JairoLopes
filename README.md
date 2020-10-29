@@ -1,9 +1,9 @@
-<h1 align="center">Jairo Lopes</h1>
-<h3 align="center">Entusiasta/estudante de tecnologia, mais especificamente data science(Pós-graduando), abrangendo tecnologias como: Python, Data Mining, Pandas, Seaborn, Matplotlib, Plotly, Machine Learning com scikit-learn entre outros.</h3>
+<h2 align="center">Jairo Lopes</h1>
+<h4 align="center">Entusiasta/estudante de tecnologia, mais especificamente data science(Pós-graduando), abrangendo tecnologias como: Python, Data Mining, Pandas, Seaborn, Matplotlib, Plotly, Machine Learning com scikit-learn entre outros.</h3>
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jairo-lopes-6351b5197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jairo-lopes-6351b5197/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jairo-lopes-6351b5197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jairo-lopes-6351b5197/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Principais Habilidades:</h3>
