@@ -1,6 +1,4 @@
 <h2 align="center">Jairo Lopes</h1>
-<h4 align="center">Entusiasta/estudante de tecnologia, mais especificamente data science(Pós-graduando), abrangendo tecnologias como: Python, Data Mining, Pandas, Seaborn, Matplotlib, Plotly, Machine Learning com scikit-learn entre outros.</h3>
-
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
