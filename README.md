@@ -1,4 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 Entusiasta/estudante de tecnologia, mais especificamente Data Science(Pós-graduando), abrangendo tecnologias como:
 
